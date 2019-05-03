@@ -9,7 +9,5 @@ matrix:
     - os: linux
     - os: osx
     - os: windows
-      cache: false
       node_js:
         - "10.9.0"
-        - "lts/*"
