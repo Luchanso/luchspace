@@ -1,0 +1,12 @@
+language: node_js
+node_js:
+  - "lts/*"
+  - "10.9.0" # my current node version
+cache: yarn
+
+matrix:
+  fast_finish: true
+  include:
+    - os: osx
+    - os: xenial
+    - os: windows
