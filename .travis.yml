@@ -6,6 +6,9 @@ cache: yarn
 matrix:
   fast_finish: true
   include:
+    - os: linux
     - os: osx
     - os: windows
-      node_js: "10.9.0"
+      node_js:
+        - "10.9.0"
+        - "lts/*"
