@@ -1,6 +1,8 @@
 # Parcel
 .cache
 dist
+phaser3-docs
+.vscode
 
 # Logs
 logs

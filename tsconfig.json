@@ -60,5 +60,6 @@
   "parcel-plugin-typescript": {
     // If true type-checking is disabled
     "transpileOnly": false
-  }
+  },
+  "exclude": ["phaser3-docs/tsgen"]
 }
