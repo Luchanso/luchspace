@@ -1,6 +1,7 @@
 # Parcel
 .cache
 dist
+phaser3-docs
 
 # Logs
 logs
