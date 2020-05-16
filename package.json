@@ -14,7 +14,7 @@
   "devDependencies": {
     "@luchanso/parcel-plugin-typescript": "1.0.0",
     "parcel-bundler": "1.12.3",
-    "typescript": "3.4.5"
+    "typescript": "3.9.2"
   },
   "dependencies": {
     "phaser": "3.16.2"
